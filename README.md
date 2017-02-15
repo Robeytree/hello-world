@@ -1,2 +1,2 @@
 # hello-world
-Zkušební startovací projekt | 15.02.2017
+Zkušební startovací projekt | <i>15.02.2017</i>
